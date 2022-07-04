@@ -1,39 +1,82 @@
 body {
-  background-image:  url('https://media.cntraveler.com/photos/581250f2997d59497dccf8bc/16:9/w_2560%2Cc_limit/GettyImages-185298837.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-size: 100%;
+  background-image: url('https://media.cntraveler.com/photos/581250f2997d59497dccf8bc/16:9/w_2560%2Cc_limit/GettyImages-185298837.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
 }
 .form-control {
-    background-color: #c0d9ef; color: #000;  font-size: 16px !important;   width: 100%;    padding: 10px;    margin: 10px;
-    border: 1px solid rgb(0, 0, 0) !important;    transition: 0.5s;
+    background-color: #c0d9ef;
+    color: #000;
+    font-size: 16px !important;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid rgb(0, 0, 0) !important;
+    transition: 0.5s;
 }
 .container {
-  max-width: 1300px;  position: relative;  margin: 0 auto;  margin-top: 150px;  padding-left: 15px;  padding-right: 15px;
+  max-width: 1300px;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 150px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .row {
-   border-top: 10px solid #577470;   z-index: 10;   position: relative;   clear: both;   background: #dce8eb;   padding: 30px;
+   border-top: 10px solid #577470;
+   z-index: 10;
+   position: relative;
+   clear: both;
+   background: #dce8eb;;
+   padding: 30px;
    width: 30%;
 }
 .tab {
-    margin-bottom: 15px;    margin-left: -5px;    margin-right: 55px;
+    margin-bottom: 15px;
+    margin-left: -5px;
+    margin-right: 55px;
 }
+
 .date {
-    background-image: url(https://tn.tunisiebooking.com/vol/images/cal.jpg); background-position: left;
-    background-repeat: no-repeat;  padding: 15px 0px 15px 43px;
+    background-image: url(https://tn.tunisiebooking.com/vol/images/cal.jpg);
+	background-position: left;
+    background-repeat: no-repeat;
+    padding: 15px 0px 15px 43px;
 }
 .btn {
-    cursor: pointer;    height: 40px;    width: 200px;   font-size: 16px;    font-family: revert;    border: none;    border-radius: 8px;
-    background-color: #fcc900;    margin-left: 100px;    padding-left: 10px;	cursor: pointer;
+    cursor: pointer;
+    height: 40px;
+    width: 200px;
+	font-size: 16px;
+    font-family: revert;
+    border: none;
+    border-radius: 8px;
+    background-color: #fcc900;
+    margin-left: 100px;
+    padding-left: 10px;
+	cursor: pointer;
 }
 .checkbox {
-    margin: 10px;    padding: 15px 0px 15px 43px;    margin-right: 55px;    margin-left: 10px;    background-color: #c0d9ef;
-    color: #000;    font-size: 16px !important;    width: 386px;    border: 1px solid rgb(0, 0, 0) !important;    transition: 0.5s;
+    margin: 10px;
+    padding: 15px 0px 15px 43px;
+    margin-right: 55px;
+    margin-left: 10px;
+    background-color: #c0d9ef;
+    color: #000;
+    font-size: 16px !important;
+    width: 386px;
+    border: 1px solid rgb(0, 0, 0) !important;
+    transition: 0.5s;
 }
 .checkbox1 {
     background-image: url(https://tn.tunisiebooking.com/vol/images/av_icon.jpg);
-   background-position: left;
+	background-position: left;
     background-repeat: no-repeat;
 }
 .checkbox2 {
     background-image: url(https://tn.tunisiebooking.com/vol/images/av_icon2.jpg);
-    background-position: left;
+	background-position: left;
     background-repeat: no-repeat;
 }
+</style>
+</html>
